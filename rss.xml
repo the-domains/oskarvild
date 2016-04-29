@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[oskarvild]]></title>
-        <description><![CDATA[oskarvild]]></description>
+        <title><![CDATA[The Site of Oskar Vild]]></title>
+        <description><![CDATA[The Site of Oskar Vild]]></description>
         <link>https://thegrid.ai/oskarvild/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 22:48:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 22:53:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oskarvild/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9e17c36-6101-45f3-9530-717441823e49.jpg">]]></description>
+            <link>https://thegrid.ai/oskarvild/flying/index.html</link>
+            <guid isPermaLink="false">bc58dbae-de9d-4100-90f7-db336d5cf3cc</guid>
+            <pubDate>Fri, 29 Apr 2016 22:52:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c686dd10-c637-4a83-98d0-7ffdc8e1b042.jpg">]]></description>
