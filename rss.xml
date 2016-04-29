@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[oskarvild]]></title>
         <description><![CDATA[oskarvild]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/oskarvild/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 22:44:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 22:48:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/oskarvild/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c686dd10-c637-4a83-98d0-7ffdc8e1b042.jpg">]]></description>
+            <link>https://thegrid.ai/oskarvild/i-like-light/index.html</link>
+            <guid isPermaLink="false">219e7aac-e3a9-4e4e-9b6d-baa1e6ae6438</guid>
+            <pubDate>Fri, 29 Apr 2016 22:46:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Snowboarding in sunmørsalpene]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d98912c-9eb8-4dd5-9fc9-7ad6dd9613db.jpg">]]></description>
-            <link>undefinedsnowboarding-in-sunmorsalpene/index.html</link>
+            <link>https://thegrid.ai/oskarvild/snowboarding-in-sunmorsalpene/index.html</link>
             <guid isPermaLink="false">78747f40-cbf5-4aed-8056-fd8918da17f4</guid>
             <pubDate>Fri, 29 Apr 2016 22:44:33 GMT</pubDate>
         </item>
